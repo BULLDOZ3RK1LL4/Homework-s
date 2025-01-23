@@ -43,7 +43,7 @@ body {
    left: 10px;
    width: 13px;
    height: 13px;
-   background: url("./img/header/Vec.svg") 0 0 / contain no-repeat;
+   background: url("img/header/Vec.svg") 0 0 / contain no-repeat;
 }
 
 .categories__body {
