@@ -43,7 +43,7 @@ body {
    left: 10px;
    width: 13px;
    height: 13px;
-   background: url("img/header/Vec.svg") 0 0 / contain no-repeat;
+   background: url("../img/header/Vec.svg") 0 0 / contain no-repeat;
 }
 
 .categories__body {
@@ -61,7 +61,7 @@ body {
    top: 130%;
    left: 0;
    min-width: 180px;
-   background: url("./img/header/Group\ 1000003191.svg") 0 0 / contain no-repeat;
+   background: url("../img/header/Group\ 1000003191.svg") 0 0 / contain no-repeat;
    padding: 25px 0px 20px 20px;
    border-radius: 7px;
    z-index: 1;
@@ -81,7 +81,7 @@ body {
    display: inline-block;
    width: 12px;
    height: 12px;
-   background: url("./img/header/Vector.svg") 0 0 / contain no-repeat;
+   background: url("../img/header/Vector.svg") 0 0 / contain no-repeat;
    margin-left: 70px;
 }
 
@@ -139,7 +139,7 @@ p:hover {
 
 .buttons__item:nth-child(2):after {
    content: "";
-   background: url("./img/header/Group\ 3.svg") 0 0 / cover no-repeat;
+   background: url("../img/header/Group\ 3.svg") 0 0 / cover no-repeat;
    width: 17px;
    height: 17px;
    position: absolute;
@@ -149,7 +149,7 @@ p:hover {
 
 .buttons__item:nth-child(3):after {
    content: "";
-   background: url("./img/header/Group\ 1.svg") 0 0 / cover no-repeat;
+   background: url("../img/header/Group\ 1.svg") 0 0 / cover no-repeat;
    width: 17px;
    height: 17px;
    position: absolute;
@@ -199,7 +199,7 @@ h3 {
 }
 
 .sub-list__offer {
-   background:url("./img/header/offer/Rectangle\ 4917\ \(1\).png") 0 0 / contain no-repeat, url("./img/header/offer/Rectangle\ 4916.jpg") 0 0 / contain no-repeat;
+   background:url("../img/header/offer/Rectangle\ 4917\ \(1\).png") 0 0 / contain no-repeat, url("../img/header/offer/Rectangle\ 4916.jpg") 0 0 / contain no-repeat;
    white-space: nowrap;
    padding: 48px;
    vertical-align: bottom;
